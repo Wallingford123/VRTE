@@ -1,5 +1,4 @@
-# VRTE
-Virtual Reality Terrain Editor
+# VRTE (Virtual Reality Terrain Editor)
 
 THIS APPLICATION REQUIRES A HTC VIVE!
 
